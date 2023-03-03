@@ -1,0 +1,6 @@
+{
+    "parent" : "item/invisible_helmet",
+    "textures" : {
+        "invisible_helmet" : "item/invisible_armor/invisible_helmet"
+    }
+}
