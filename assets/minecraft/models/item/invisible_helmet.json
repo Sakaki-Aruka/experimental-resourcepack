@@ -2,8 +2,5 @@
     "parent" : "item/invisible_armor/invisible_helmet",
     "textures" : {
         "layer0" : "item/invisible_armor/invisible_helmet"
-    },
-    "overrides" : [
-        { "predicate" : {"custom_model_data" : 1},"model" : "item/diamond_helmet/1"}
-    ]
+    }
 }
